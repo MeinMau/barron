@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="state-page"><div className="brand">▧ EProfile</div><span className="eyebrow">ERROR 404</span><h1>Este perfil aún no está por aquí.</h1><p>Revisa el enlace o vuelve al inicio.</p><a href="/" className="btn primary">Volver al inicio</a></main>;}
